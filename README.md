@@ -80,13 +80,14 @@ matugen-theme-bridge/
 
 ## Installation
 
-Option B - Install from VSIX (recommended)
+Option A - Install from VSIX (recommended)
 
 Download ` matugen-theme-bridge-1.0.0.vsix` from releases
 then open VSCodium ` ctrl+shift+P ` -> Extension:Install Extension -> install form vsix
 select `matugen-theme-bridge-1.0.0.vsix` and Done 
 
-          or 
+                    or 
+
 ```
 # 5a. Install in VS Code
 code --install-extension matugen-theme-bridge-1.0.0.vsix
